@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://littlepea13.github.io/indigo
+url: https://littlepea13.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -35,13 +35,13 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: https://twitter.com/PereLluis13
+twitter: PereLluis13
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/LittlePea13
+github: LittlePea13
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow

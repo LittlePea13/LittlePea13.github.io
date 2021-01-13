@@ -1,0 +1,49 @@
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2021
+  img: EACL
+  title: "Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions"
+  authors: " <strong>Pere-Lluís Huguet Cabot</strong>, Dabid Abadi, Agneta Fischer and Ekaterina Shutova"
+  booktitle: "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers"
+  doc-url: https://www.aclweb.org/anthology/events/eacl-2021/
+  venue: conference\
+  abstract: 
+  bibtex:
+-
+  layout: paper
+  paper-type: inproceedings
+  selected: y
+  year: 2020
+  img: EMNLP
+  title: "The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse"
+  authors: " <strong>Pere-Lluís Huguet Cabot</strong>, Verna Dankers, Dabid Abadi, Agneta Fischer and Ekaterina Shutova"
+  booktitle: "Findings of the Association for Computational Linguistics: EMNLP 2020."
+  doc-url: https://www.aclweb.org/anthology/2020.findings-emnlp.402/
+  venue: conference\
+  abstract: >
+    There has been an increased interest in modelling political discourse within the natural language processing (NLP) community, 
+    in tasks such as political bias and misinformation detection, among others. Metaphor-rich and emotion-eliciting communication 
+    strategies are ubiquitous in political rhetoric, according to social science research. Yet, none of the existing computational 
+    models of political discourse has incorporated these phenomena. In this paper, we present the first joint models of metaphor, 
+    emotion and political rhetoric, and demonstrate that they advance performance in three tasks: predicting political perspective 
+    of news articles, party affiliation of politicians and framing of policy issues.
+  bibtex: |
+    @inproceedings{huguet-cabot-etal-2020-pragmatics, <br/>
+      title = "{T}he {P}ragmatics behind {P}olitics: {M}odelling {M}etaphor, {F}raming and {E}motion in {P}olitical {D}iscourse", <br/>
+      author = "Huguet Cabot, Pere-Llu{\'\i}s  and
+        Dankers, Verna  and
+        Abadi, David  and
+        Fischer, Agneta  and
+        Shutova, Ekaterina", <br/>
+      booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020", <br/>
+      month = nov, <br/>
+      year = "2020", <br/>
+      address = "Online", <br/>
+      publisher = "Association for Computational Linguistics", <br/>
+      url = "https://www.aclweb.org/anthology/2020.findings-emnlp.402", <br/>
+      doi = "10.18653/v1/2020.findings-emnlp.402", <br/>
+      pages = "4479--4488", <br/>
+      abstract = "There has been an increased interest in modelling political discourse within the natural language processing (NLP) community, in tasks such as political bias and misinformation detection, among others. Metaphor-rich and emotion-eliciting communication strategies are ubiquitous in political rhetoric, according to social science research. Yet, none of the existing computational models of political discourse has incorporated these phenomena. In this paper, we present the first joint models of metaphor, emotion and political rhetoric, and demonstrate that they advance performance in three tasks: predicting political perspective of news articles, party affiliation of politicians and framing of policy issues.", <br/>
+    }
