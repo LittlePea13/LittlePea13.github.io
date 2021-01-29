@@ -7,10 +7,24 @@
   title: "Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions"
   authors: " <strong>Pere-Lluís Huguet Cabot</strong>, Dabid Abadi, Agneta Fischer and Ekaterina Shutova"
   booktitle: "Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Volume 1, Long Papers"
-  doc-url: https://www.aclweb.org/anthology/events/eacl-2021/
+  doc-url: https://arxiv.org/abs/2101.11956
   venue: conference\
-  abstract: 
-  bibtex:
+  abstract: > 
+    Computational modelling of political discourse tasks has become an increasingly important area of research in natural language 
+    processing. Populist rhetoric has risen across the political sphere in recent years; however, computational approaches to it have 
+    been scarce due to its complex nature. In this paper, we present the new Us vs. Them dataset, consisting of 6861 Reddit comments 
+    annotated for populist attitudes and the first large-scale computational models of this phenomenon. We investigate the relationship 
+    between populist mindsets and social groups, as well as a range of emotions typically associated with these. We set a baseline for 
+    two tasks related to populist attitudes and present a set of multi-task learning models that leverage and demonstrate the importance 
+    of emotion and group identification as auxiliary tasks.
+  bibtex: |
+      @misc{cabot2021usvsthem, <br/>
+        author = {Pere-Lluís Huguet Cabot and David Abadi and Agneta Fischer and Ekaterina Shutova}, <br/>
+        title = {Us vs. Them: A Dataset of Populist Attitudes, News Bias and Emotions}, <br/>
+        year = 2021, <br/>
+        url = {https://arxiv.org/abs/2101.11956} <br/>
+      }
+
 -
   layout: paper
   paper-type: inproceedings
